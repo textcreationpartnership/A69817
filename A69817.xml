@@ -1,0 +1,891 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epigrammata sacra selecta, cum Anglica versione Sacred epigrams, Englished.</title>
+            <title>Epigrammata sacra selecta. English &amp; Latin</title>
+            <author>Crashaw, Richard, 1613?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69817</idno>
+            <idno type="STC">Wing C6832</idno>
+            <idno type="STC">ESTC R2276</idno>
+            <idno type="EEBO-CITATION">12015400</idno>
+            <idno type="OCLC">ocm 12015400</idno>
+            <idno type="VID">52518</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52518)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 23:24 or 183:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Epigrammata sacra selecta, cum Anglica versione Sacred epigrams, Englished.</title>
+                  <title>Epigrammata sacra selecta. English &amp; Latin</title>
+                  <author>Crashaw, Richard, 1613?-1649.</author>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Barksdale ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translated by Clement Barksdale.</note>
+                  <note>Attributed to Richard Crashaw. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Epigrams, English.</term>
+               <term>Epigrams, Latin.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52518:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <pb facs="tcp:52518:1"/>
+            <!-- PDF PAGE 64 -->
+            <p>EPIGRAMMATA Sacra Selecta, CUM ANGLICA VERSIONE.</p>
+            <p>SACRED EPIGRAMS Engliſhed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Barksdale,</hi> Book-ſeller in <hi>Cirenceſter,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:52518:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="3" facs="tcp:52518:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 65 -->
+            <head>EPIGRAMMATA SACRA Selecta, cum Anglica verſione.</head>
+            <head type="sub">Sacred Epigrams Engliſh'd.</head>
+            <lg n="1">
+               <head>1. Phariſaeus &amp; Publicanus, <hi>Luc.</hi> 18.</head>
+               <l>EN duo Templum adeunt, diverſis mentibus ambo</l>
+               <l>Ille procul trepido lumine ſignat humum:</l>
+               <l>It gravis hic in alta ferox penetralia ridens,</l>
+               <l>Plus habet hic Templi, plus habet ille Dei.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Two men unto the Temple went to Pray:</hi>
+               </l>
+               <l>
+                  <hi>That with a downcaſt look ſtood far away,</hi>
+               </l>
+               <l>
+                  <hi>This near the Altar himſelf highly bore;</hi>
+               </l>
+               <l>
+                  <hi>This of the Temple, that of God hath more.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>2. Dominus apud ſuos vilis, <hi>Luc.</hi> 4.</head>
+               <l>En conſanguinei! patriis en exul in oris</l>
+               <l>Chriſtus, &amp; hae villa eam peregrinus erat.</l>
+               <l>Qui ſocio demum pendebat ſanguine latro,</l>
+               <l>O conſanguineus quam fuit ille magis!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>See O my Kinſmen, what ſtrange thing is this!</hi>
+               </l>
+               <l>
+                  <hi>Chriſt in's own Country a great ſtranger is.</hi>
+               </l>
+               <l>
+                  <hi>The Thief which bleſs'd upon the Croſs with me,</hi>
+               </l>
+               <l>
+                  <hi>Is more ally'd in Conſanguinity.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>3. Primo Maria Magdalena, <hi>Luc.</hi> 20.</head>
+               <l>Tu matutinos praevertis ſancta rubores,</l>
+               <l>Magdula, ſed jam tum Sol tuus ortus erat.</l>
+               <pb n="4" facs="tcp:52518:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 66 -->
+               <l>
+                  <hi>Magdalen, thou prevent'ſt the morning light:</hi>
+               </l>
+               <l>
+                  <hi>But thy Sun was already in thy ſight.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>4. Aethiops lotus, <hi>Act.</hi> 8.</head>
+               <l>Ille niger ſacris exit (quam lautus!) ab undis:</l>
+               <l>Nec fruſtra Aethiopem nempe lavare fuit.</l>
+               <l>Mentem quam niveam piceae cutis umbra fora<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it:</l>
+               <l>Jam volet &amp; nigros ſancta columba lares.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>How fair this Ethiop comes from th' holy fount?</hi>
+               </l>
+               <l>
+                  <hi>To waſh a Black we may not vain account.</hi>
+               </l>
+               <l>
+                  <hi>How bright a Soul is in a cloudy skin!</hi>
+               </l>
+               <l>
+                  <hi>The Dove now loves a black houſe to dwell in.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>5. Maria aſſidens ad prandium, <hi>Luc.</hi> 10.</head>
+               <l>Tune epulis adeo es (ſoror) officioſa juvandis.</l>
+               <l>Et ſinis has (inquit) Martha, perire dapes?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>O Siſter, ſpare thy labour and thy coſt,</hi>
+               </l>
+               <l>
+                  <hi>And ſuffer not theſe dainties to be loſt.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>6. Non praeſtant fidem, <hi>Joh.</hi> 12.</head>
+               <l>Non praeſtant? ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> te poſt tot miracula credunt?</l>
+               <l>Miraclum, qui non credidit, ipſe fuit.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>After ſo many Miracles done well,</hi>
+               </l>
+               <l>
+                  <hi>He that believes not is a Miracle.</hi>
+               </l>
+            </lg>
+            <lg n="7">
+               <head>7. Ad Infantes Martyres, <hi>Matth.</hi> 2.</head>
+               <l>Fundite ridentes animas, effundite coelo:</l>
+               <l>Diſcet ibi veſtra (ô quam bene!) lingua loqui.</l>
+               <l>Nec vos lac veſtrum, &amp; maternos quaerite fontes:</l>
+               <l>Quae vos exſpectat lactea tota via eſt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Depart the ſmiling Souls, to heaven depart:</hi>
+               </l>
+               <l>
+                  <hi>Your Tongues may there tearm beſt the ſpeaking art.</hi>
+               </l>
+               <pb n="5" facs="tcp:52518:3"/>
+               <!-- PDF PAGE 66 -->
+               <l>
+                  <hi>Stay not to ſuck, ſweet Children, do not ſtay:</hi>
+               </l>
+               <l>
+                  <hi>Cry not: For you ſhall go the milk y way.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>8. Non ſum dignus, <hi>Matth.</hi> 8.</head>
+               <l>Illum ergo acccipies, quoniam non accipis; ergo</l>
+               <l>In te jam veniet, non tua tecta Deus.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thou receiv'ſt, and receiv'ſt not Chriſt, for he</hi>
+               </l>
+               <l>
+                  <hi>Comes not into thy Houſe, but into thee.</hi>
+               </l>
+            </lg>
+            <lg n="9">
+               <head>9. Lux venit in mundum, <hi>Joh.</hi> 2.</head>
+               <l>Luce ſua venit, ecce Deus, mundo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> refulget:</l>
+               <l>Pergit adhuc tenebras Mundus amare ſuas.</l>
+               <l>At ſtygiis igitur Mundus damnabitur umbris:</l>
+               <l>Pergit adhuc tenebras Mundus amare ſuas?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Behold the day of Chriſt! God comes with light,</hi>
+               </l>
+               <l>
+                  <hi>Yet the world loves the darkneſs of the night.</hi>
+               </l>
+               <l>
+                  <hi>Therefore the world to Stygian darkneſs will</hi>
+               </l>
+               <l>
+                  <hi>Be damn'd. And doth the world love darkneſs ſtill?</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>10. In aquam Baptiſmi Dominici, <hi>Matth.</hi> 3.</head>
+               <l>Felix, ô, ſacros cui ſic licet ire per artus!</l>
+               <l>Felix! Dum lavat hunc, ipſa lavatur aqua.</l>
+               <l>Gutta quidem ſacras quaecun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> perambulat artus,</l>
+               <l>Dum manet hic gemma eſt, dum cadit hinc lacryma.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Happy the water, waſht his ſacred ſide!</hi>
+               </l>
+               <l>
+                  <hi>In waſhing Chriſt it ſelf is purifi'd.</hi>
+               </l>
+               <l>
+                  <hi>Each drop which trickled down his body, there</hi>
+               </l>
+               <l>
+                  <hi>Staying a Gem, thence falling was a tear.</hi>
+               </l>
+            </lg>
+            <lg n="11">
+               <head>11. Nunc dimittis, <hi>Luc.</hi> 2.</head>
+               <l>Jam ſatis eſt, Ego te vidi, puer auree, vidi</l>
+               <l>Nil poſt te niſi te, Chriſte, videre volo.</l>
+               <pb n="6" facs="tcp:52518:4"/>
+               <!-- PDF PAGE 67 -->
+               <l>
+                  <hi>Enough!</hi> I <hi>have ſeen, have ſeen my Saviour<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Beſide thee, Chriſt, I would ſee nothing more.</hi>
+               </l>
+            </lg>
+            <lg n="12">
+               <head>12. Iohannes Matri ſuae.</head>
+               <l>O mihi cur dextram, mater, cur (oro) ſiniſtram</l>
+               <l>Poſcis, ab officio, mater, iniqua tuo?</l>
+               <l>Nolo manum Chriſti dextram, mihi, nolo ſiniſtram:</l>
+               <l>Tam procul a ſacro non libet eſſe ſinu.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mother, why ask you right, or left for me?</hi>
+               </l>
+               <l>
+                  <hi>The benefit would be an injury.</hi>
+               </l>
+               <l>
+                  <hi>Nor right nor left for me convenient are:</hi>
+               </l>
+               <l>
+                  <hi>From his ſweet boſome either is too far.</hi>
+               </l>
+            </lg>
+            <lg n="13">
+               <head>13. Si filius Dei es, <hi>Matth</hi> 4.</head>
+               <l>Ni ſe dejiciat Chriſtus de Vertice Templi,</l>
+               <l>Non credes, quod ſit filius ille Dei:</l>
+               <l>At mox te humano de pectore dejicit. Heus tu!</l>
+               <l>Non credes quod ſit Filius ille Dei?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Caſt thy ſelf from the pinacle, whereon</hi>
+               </l>
+               <l>
+                  <hi>I ſet thee, or I think thee not Gods Son.</hi>
+               </l>
+               <l>
+                  <hi>No, but he'l caſt thee from the hearts of men,</hi>
+               </l>
+               <l>Satan, <hi>Wilt not beleive he's God's Son, then?</hi>
+               </l>
+            </lg>
+            <lg n="14">
+               <head>14. Dominus flens ad Judaeos, <hi>Luc.</hi> 19.</head>
+               <l>Diſcite vos miſeri, veninetes diſcite flammas;</l>
+               <l>Nec facite, ô, lacrymas ſic periiſſe meas.</l>
+               <l>Nec periiſſe tamen poterunt, mihi credite, veſtras</l>
+               <l>Vel reprimet flammas haec aqua, vel faciet.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Think on the coming flames I would prevent:</hi>
+               </l>
+               <l>
+                  <hi>Let not my tears for you in vain be ſpent.</hi>
+               </l>
+               <l>
+                  <hi>And yet they can't be ſpent in vain: for ſure</hi>
+               </l>
+               <l>
+                  <hi>This water flames will quench, or elſe procure.</hi>
+               </l>
+            </lg>
+            <pb n="7" facs="tcp:52518:4"/>
+            <!-- PDF PAGE 67 -->
+            <lg n="15">
+               <head>15. In Saulum nimio fulgore excaecant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, <hi>Act.</hi> 9.</head>
+               <l>An Saulus fuerit coecus, vix dicere poſſum:</l>
+               <l>Hoc ſcio, quod captus lumine Saulus erat.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>That</hi> Saul <hi>was blind, I will not ſay:</hi>
+               </l>
+               <l>
+                  <hi>Sure,</hi> Saul <hi>was</hi> captus lumine.</l>
+            </lg>
+            <lg n="16">
+               <head>16. Beati oculi qui vident, <hi>Luc.</hi> 10.</head>
+               <l>Cum Chriſtus noſtris ibat mitiſſmus oris,</l>
+               <l>At<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> novum caecos juſſit habere diem;</l>
+               <l>Felices oculos qui tunc habuere, vocantur:</l>
+               <l>Felices, &amp; qui non habuere, voco.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>When Chriſt with us on Earth did ſympathize,</hi>
+               </l>
+               <l>
+                  <hi>And to the poor blind men reſtor'd their eyes;</hi>
+               </l>
+               <l>
+                  <hi>Happy they, who had eyes. Not they alone:</hi>
+               </l>
+               <l>
+                  <hi>I call them alſo happy who had none.</hi>
+               </l>
+            </lg>
+            <lg n="17">
+               <head>17. Piſcatores vocati, <hi>Matth.</hi> 4.</head>
+               <l>Ludite jam piſces ſecura per aequora: piſces</l>
+               <l>Nos quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſed varia ſub ratione ſumus.</l>
+               <l>Non potuiſſe capi, votis ſpes una ſalutis:</l>
+               <l>Una ſalus nobis eſt potuiſſe capi.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Play Fiſhes in your waters, ſafely play:</hi>
+               </l>
+               <l>
+                  <hi>We become Fiſhes too, another way:</hi>
+               </l>
+               <l>
+                  <hi>Not to be taken, to your ſafety brought;</hi>
+               </l>
+               <l>
+                  <hi>But we are then moſt ſafe, when we are caught.</hi>
+               </l>
+            </lg>
+            <lg n="18">
+               <head>18. Aquae in vinum verſae, <hi>Joh.</hi> 2.</head>
+               <l>Numen, convivae, praeſens agnoſcite numen:</l>
+               <l>Nympha pudica Deum vidit, &amp; erubuit.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>See, ô my Gueſts: A deity is here:</hi>
+               </l>
+               <l>
+                  <hi>The Chaſt Nymph ſaw a God, and bluſht for fear.</hi>
+               </l>
+            </lg>
+            <pb n="8" facs="tcp:52518:5"/>
+            <!-- PDF PAGE 68 -->
+            <lg n="19">
+               <head>19. Quid timidi eſtis, <hi>Mar.</hi> 3.</head>
+               <l>Tanquam illi inſanus faceret ſua fulmina ventus!</l>
+               <l>Tanquam illi ſcopulos noret habere fretum!</l>
+               <l>Vos veſtri ſcopuli, vos eſtis ventus &amp; unda:</l>
+               <l>Naufragium cum illo, qui metuit, meruit.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>As if to him the winds their thunder threw!</hi>
+               </l>
+               <l>
+                  <hi>As if to him hard Rocks the water knew!</hi>
+               </l>
+               <l>
+                  <hi>Ye are your rocks, ye are your wind and wave:</hi>
+               </l>
+               <l>
+                  <hi>Shiprack with him, who fear, deſerve to have.</hi>
+               </l>
+            </lg>
+            <lg n="20">
+               <head>20. In gregem Chriſti Paſtoris, <hi>Joh.</hi> 10.</head>
+               <l>O Grex! O, nimium tanto Paſtore beatus!</l>
+               <l>O, ubi ſunt tanto paſcua digna grege!</l>
+               <l>Ne non digna forent tanto grege paſcua, Chriſtus</l>
+               <l>Ipſe ſuo eſt Paſtor, paſcuum &amp; ipſe gregi.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>O Flock! ô, too much in thy Sheepherd bleſt!</hi>
+               </l>
+               <l>
+                  <hi>Where are fields worthy thee, to feed and reſt!</hi>
+               </l>
+               <l>
+                  <hi>Leſt worthy paſtures no where ſhould be found,</hi>
+               </l>
+               <l>
+                  <hi>Chriſt is to thee the Sheepherd and the ground.</hi>
+               </l>
+            </lg>
+            <lg n="21">
+               <head>21 An is ſit, <hi>Luc.</hi> 17.</head>
+               <l>Tu, Quis ſit Chriſtus, rogitas? Et quaeris ab ipſo?</l>
+               <l>Hoc tibi vel mutus dicere quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> poteſt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Is he the Chriſt? And the Inquiry is</hi>
+               </l>
+               <l>
+                  <hi>Of himſelf? Why, the dumb can anſwer this.</hi>
+               </l>
+            </lg>
+            <lg n="22">
+               <head>22. Manus arefacta ſanatur, <hi>Mar.</hi> 3.</head>
+               <l>Quae nec in externos modo dextera praefuit uſus,</l>
+               <l>Certe erit illa tuae jam manus &amp; fidei.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The hand of no uſe, by the word Chriſt ſaith,</hi>
+               </l>
+               <l>
+                  <hi>Reſtor'd, is now become the hand of Faith.</hi>
+               </l>
+            </lg>
+            <pb n="9" facs="tcp:52518:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <lg n="23">
+               <head>23. In Pontium ruente lautum, <hi>Matth.</hi> 27.</head>
+               <l>Illa manus lavat unda tuas, vaniſſime Judex;</l>
+               <l>Ah, tamen illa ſcelus non lavat unda tuum.</l>
+               <l>Nulla ſcelus lavat unda tuum: vel ſi lavat ulla,</l>
+               <l>O, valet ex oculis illa venire tuis.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The unjuſt Judge waſht his hands at the time:</hi>
+               </l>
+               <l>
+                  <hi>Ah, but no water can waſh out thy crime:</hi>
+               </l>
+               <l>
+                  <hi>No water waſh it out: If any will,</hi>
+               </l>
+               <l>
+                  <hi>Tis that which muſt from thy owne eyes deſtil.</hi>
+               </l>
+            </lg>
+            <lg n="24">
+               <head>24. Ego vici mundum, <hi>Joh.</hi> 16.</head>
+               <l>Tu contra mundum Dux es meus, optime Jeſu!</l>
+               <l>At Tu (me miſerum!) Dux meus ipſe jaces.</l>
+               <l>Si Tu dux meus ipſe jaces, ſpes nulla Salutis:</l>
+               <l>Immo, ni jaceas Tu, mihi nulla ſalus.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jeſus, my Captain give me victories?</hi>
+               </l>
+               <l>
+                  <hi>Alas! Jeſus himſelf my Captain dies.</hi>
+               </l>
+               <l>
+                  <hi>And if my Captain fall, what hope have I?</hi>
+               </l>
+               <l>
+                  <hi>No hope at all, unleſs my Captain die.</hi>
+               </l>
+            </lg>
+            <lg n="25">
+               <head>25. Columba in Chriſtum, <hi>Matth.</hi> 3.</head>
+               <l>Sola avis haec nido hoc non eſt indigna cubare:</l>
+               <l>Solus nidus hic eſt hac bene dignus ave.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Moſt worthy neſt, this, for the bird above:</hi>
+               </l>
+               <l>
+                  <hi>Moſt worthy of this neſt is th' holy Dove.</hi>
+               </l>
+            </lg>
+            <lg n="26">
+               <head>26. Comedit cum peccatoribus, <hi>Luck.</hi> 15.</head>
+               <l>Iſtis cum Chriſtus conviva adjungitur: iſtis,</l>
+               <l>O, non conviva eſt Chriſtus, at ipſe cibus.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sinners do entertain Chriſt, as a gueſt,</hi>
+               </l>
+               <l>
+                  <hi>They ſpread the table, but He is the feaſt.</hi>
+               </l>
+            </lg>
+            <pb n="10" facs="tcp:52518:6"/>
+            <!-- PDF PAGE 69 -->
+            <lg n="27">
+               <head>27. De voto filiaerum Zebedoei, <hi>Matth.</hi> 20.</head>
+               <l>Sit tibi Joannes, tibi ſit Jacobe, quod optas:</l>
+               <l>Sit tibi dextra manus, ſit tibi laeva manus.</l>
+               <l>Coeli hanc aut illam nolo mihi quaerere partem:</l>
+               <l>O, Coelum, Coelum da pater alme, mihi.</l>
+            </lg>
+            <lg>
+               <l>John <hi>and</hi> James <hi>take your place at Gods Command,</hi>
+               </l>
+               <l>
+                  <hi>One at the right, th' other at the left hand.</hi>
+               </l>
+               <l>
+                  <hi>I ask not to be placed ſo, or ſo:</hi>
+               </l>
+               <l>
+                  <hi>To Heaven, to Heaven, good Father, let me go.</hi>
+               </l>
+            </lg>
+            <lg n="28">
+               <head>28. Ad hoſpites coenae miraculoſae, <hi>Joh.</hi> 6.</head>
+               <l>Tunc pane hoc Chriſti recte ſatur, hoſpes, abibis;</l>
+               <l>Panem ipſum Chriſtum ſi magis eſurias.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Theſe loaves of Chriſt are well beſtowed, if fed</hi>
+               </l>
+               <l>
+                  <hi>With theſe they hunger after living bread.</hi>
+               </l>
+            </lg>
+            <lg n="29">
+               <head>29. Graeci diſputatores, <hi>Act.</hi> 9.</head>
+               <l>Hoc argumentum in cauſam quid, Graecule, dicit?</l>
+               <l>Dicit, te in cauſam dicere poſſe nihil.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>By your oppoſing force, Greeks, what is meant?</hi>
+               </l>
+               <l>
+                  <hi>That you have no convincing argument.</hi>
+               </l>
+            </lg>
+            <lg n="30">
+               <head>30. Eſto minimus, <hi>Luc.</hi> 22.</head>
+               <l>O bone, diſcipulus Chriſti vis maximus eſſe?</l>
+               <l>At vero fies hac ratione minor.</l>
+               <l>Hoc ſanctae ambitionis iter, mihi crede, tenendum eſt;</l>
+               <l>Haec ratio; Tu, ne ſis minor, eſſe velis.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The greateſt of Diſciples wouldſt thou be?</hi>
+               </l>
+               <l>
+                  <hi>Whoever's ſo ambitious, leſs is he.</hi>
+               </l>
+               <l>
+                  <hi>That thou maiſt not go leſs, to every one</hi>
+               </l>
+               <l>
+                  <hi>Submit. This, this is Chriſts ambition.</hi>
+               </l>
+            </lg>
+            <pb n="11" facs="tcp:52518:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 69 -->
+            <lg n="31">
+               <head>31. Coeci Confitentes Chriſtum, <hi>Matth.</hi> 9.</head>
+               <l>Tu (Phariſaee) nequis in Chriſto cernere Chriſtum:</l>
+               <l>Ille videt coecus, coecus es ipſe videns.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thou (Phariſee) canſt not in Chriſt, Chriſt find:</hi>
+               </l>
+               <l>
+                  <hi>The blind man ſees him, and the ſeer's blind.</hi>
+               </l>
+            </lg>
+            <lg n="32">
+               <head>32. Relictis omnibus, <hi>Luc.</hi> 5.</head>
+               <l>Quas Matthaeus opes ad Chriſti juſſa reliquit,</l>
+               <l>Tum primum verê caepit habere ſuas.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>To be rich, truly rich,</hi> Matthew <hi>did take,</hi>
+               </l>
+               <l>
+                  <hi>The right way, when he left all for Chriſts ſake.</hi>
+               </l>
+            </lg>
+            <lg n="33">
+               <head>33. Ad B. Lucam Medicum.</head>
+               <l>Nulla mihi, Luca, de te medicamina poſco,</l>
+               <l>Ipſe licet medicus ſis, licet aeger ego:</l>
+               <l>Quippe ego in exemplum fidei dum te mihi pono,</l>
+               <l>Tu, Medice, ipſe mihi es, tu medicina mihi.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>No medicin of thee, O Luke, I ſeek,</hi>
+               </l>
+               <l>
+                  <hi>Tho thou art a Phiſician, and I ſick:</hi>
+               </l>
+               <l>
+                  <hi>Th' example of thy faith before my eyen,</hi>
+               </l>
+               <l>
+                  <hi>To me (Phyſician) is the medicine.</hi>
+               </l>
+            </lg>
+            <lg n="34">
+               <head>34 Coecus natus, <hi>Joh.</hi> 9.</head>
+               <l>Felix quam potuit, tantae, poſt nubila noctis,</l>
+               <l>(O dignum tanta nocte!) videre diem:</l>
+               <l>Felix ille oculus, felix utrinque putandus,</l>
+               <l>Quod videt, &amp; primum quod videt ille Deum.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Happy the man who was endu'd with ſight,</hi>
+               </l>
+               <l>
+                  <hi>And ſaw a day well worth ſo long a night:</hi>
+               </l>
+               <l>
+                  <hi>Happy the eye, twice happy is the eye,</hi>
+               </l>
+               <l>
+                  <hi>That ſees, and at firſt look a Deity.</hi>
+               </l>
+            </lg>
+            <pb n="12" facs="tcp:52518:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <lg n="35">
+               <head>35. In Stabulum, <hi>Luc.</hi> 2.</head>
+               <l>Illa domus ſtabulum? Non eſt, puer auree, non eſt:</l>
+               <l>Vix Coelo dici vult minor eſſe tuo.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This Houſe a Stable? No. Thy bleſſed birth,</hi>
+               </l>
+               <l>
+                  <hi>Jeſus, converts it to a Heaven and Earth.</hi>
+               </l>
+            </lg>
+            <lg n="36">
+               <head>36. Joannes oleo ferventi illoeſus.</head>
+               <l>Illum ignem extingui, bone Domitiane, laboras?</l>
+               <l>Hoc non eſt oleum, Doimtiane, dare.</l>
+            </lg>
+            <lg>
+               <l>John <hi>is Chriſt's flame, Domitian, in thine ire</hi>
+               </l>
+               <l>
+                  <hi>Canſt thou ere hope, with oil, to' extinguiſt fire.</hi>
+               </l>
+            </lg>
+            <lg n="37">
+               <head>37. Sanavit omnes, <hi>Matth.</hi> 4.</head>
+               <l>Fac colubros jam tota ſuos, tua vibret Erinnys;</l>
+               <l>Collige, Collige te, fortiter ut pereas.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Do, Dragon, do: thy ſnakes together call;</hi>
+               </l>
+               <l>
+                  <hi>That by Chriſt's virtue they may periſh all.</hi>
+               </l>
+            </lg>
+            <lg n="38">
+               <head>38. Leproſus Dominum implorans, <hi>Matth,</hi> 8.</head>
+               <l>Tu modo, tu faciles mihi Sol meus exere vultus:</l>
+               <l>Non poterit, radios nix mea ferre tuos.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Shine forth, my Sun; ſoon as thy beams are felt,</hi>
+               </l>
+               <l>
+                  <hi>Thy gracious healing beams, my ſnow will melt.</hi>
+               </l>
+            </lg>
+            <lg n="39">
+               <head>39. Chriſtus in tempeſtate, <hi>Matth.</hi> 8.</head>
+               <l>Quod fervet tanto circum te, Chriſte, tumultu;</l>
+               <l>Non hoc ira Maris, Chriſte, ſed ambitio eſt:</l>
+               <l>Haec illa ambitio eſt, hoc tanto te rogat ore,</l>
+               <l>Poſſit ut admonitus, Chriſte, tacere tuos.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>That the Sea with ſuch violence falls on;</hi>
+               </l>
+               <l>
+                  <hi>Tis not his malice, but ambition:</hi>
+               </l>
+               <pb n="13" facs="tcp:52518:7"/>
+               <!-- PDF PAGE 70 -->
+               <l>
+                  <hi>This the ambition, this the loud requeſt,</hi>
+               </l>
+               <l>
+                  <hi>At thy Command, ô Chriſt, to take his reſt.</hi>
+               </l>
+            </lg>
+            <lg n="40">
+               <head>40. Mulier Canaanitis, <hi>Matth.</hi> 15.</head>
+               <l>Femina tam fortis fidei? Jam credo fidem eſſe</l>
+               <l>Pluſquam Grammatice faeminei generis.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>O Woman! How great is that Faith of thine!</hi>
+               </l>
+               <l>Fides, <hi>more than a Grammar's Feminine.</hi>
+               </l>
+            </lg>
+            <lg n="41">
+               <head>41. Petrus timuit, <hi>Matth.</hi> 14.</head>
+               <l>Pondere preſſa ſuo ſubſidunt caetera: ſolum,</l>
+               <l>Petre, tuae mergit te levitatis onus.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>All things ſubſide by their own weight: I think,</hi>
+               </l>
+               <l>
+                  <hi>Thy lightneſs only,</hi> Peter, <hi>makes thee ſink.</hi>
+               </l>
+            </lg>
+            <lg n="42">
+               <head>42. Nunc dimittis, <hi>Luc.</hi> 2.</head>
+               <l>Primum eſt, quod potui te, Chriſte, videre: ſecundum,</l>
+               <l>Te viſo, rectà jam potuiſſe mori.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>To ſee thee Chriſt, was firſt in my deſire:</hi>
+               </l>
+               <l>
+                  <hi>Next, having ſeen thee, forthwith to expire.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
